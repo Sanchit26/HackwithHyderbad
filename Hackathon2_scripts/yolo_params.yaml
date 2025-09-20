@@ -1,0 +1,7 @@
+train: /Users/syedasif/duality_ai/train_1/train
+val: /Users/syedasif/duality_ai/val/images
+test: /Users/syedasif/duality_ai/test/images
+
+nc: 7
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm',
+        'SafetySwitchPanel', 'EmergencyPhone', 'EscapeHatch']
